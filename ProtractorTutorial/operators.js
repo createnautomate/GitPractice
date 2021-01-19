@@ -39,3 +39,8 @@ console.log(--i); // decr to 11 print 11
 console.log(i); // print 11
 console.log(i--); // decr to 10 print 11
 console.log(i); // print 10 */
+
+console.log(i++);
+console.log(i++);
+console.log(i++);
+console.log(i++);
